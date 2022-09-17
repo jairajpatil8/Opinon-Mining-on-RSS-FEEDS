@@ -9,7 +9,7 @@ Since the emergence of Covid-19, people’s perspectives on various things in th
   <li>Once you are done installing, change the directory where the files are saved.</li>
   <li>Deploy project using "gcloud app deploy"</li>
    <li>This may take some time, once the deployment is complete you can view the application using: "gcloud app borwse"</li>
-   <li>Logs can be seen using: "gcloud app logs tail -s default"li>
+   <li>Logs can be seen using: "gcloud app logs tail -s default"</li>
 </ul>
   
 <h3>How to Use the Project:<h3>
