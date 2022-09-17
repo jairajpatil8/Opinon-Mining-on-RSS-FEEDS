@@ -1,0 +1,8 @@
+streamlit
+requests
+requests-html
+wordcloud
+sklearn
+nltk
+textblob
+neptune-client
